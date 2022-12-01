@@ -1,2 +1,2 @@
 #!bin/bash
-mkdit /tmp/  
+mkdir /tmp/  
